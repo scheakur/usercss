@@ -1,0 +1,171 @@
+@font-face {
+  font-family: "メイリオ";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "メイリオ";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "Meiryo";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "Meiryo";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "Meiryo UI";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "Meiryo UI";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "MS PGothic";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "MS PGothic";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "MS Pゴシック";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "MS Pゴシック";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "ＭＳ Ｐゴシック";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "ＭＳ Ｐゴシック";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "MS PMincho";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "MS PMincho";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "ＭＳ Ｐ明朝";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "ＭＳ Ｐ明朝";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "YuGothic";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "YuGothic";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "游ゴシック";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "游ゴシック";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "Yu Gothic UI";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "Yu Gothic UI";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "system-ui";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+@font-face {
+  font-family: "sans-serif";
+  src: local("UD Digi Kyokasho NK-R");
+  unicode-range: U+0080-10FFFF;
+}
+
+@font-face {
+  font-family: "sans-serif";
+  src: local("Segoe UI");
+  unicode-range: U+0000-007F;
+}
+
+body {
+  font-family: "Segoe UI", "UD Digi Kyokasho NK-R";
+}

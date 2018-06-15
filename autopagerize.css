@@ -1,0 +1,11 @@
+.autopagerize_page_info {
+  display: flex;
+}
+
+.autopagerize_icon {
+  margin: 5px;
+}
+
+.autopagerize_link {
+  line-height: 26px;
+}
